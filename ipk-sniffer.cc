@@ -17,6 +17,7 @@
 
 #include <getopt.h>
 #include <pcap.h>
+#include <arpa/inet.h>
 
 using std::cout;
 using std::cerr;
